@@ -38,7 +38,7 @@ const Hero = () => {
           </h2>
 
           <div className="flex items-center gap-3">
-            <a href="/images/Bryan Rafosala CV.pdf" download>
+            <a href="/images/BryanRafosala.pdf" download>
             <ButtonPrimary
               label="Download CV"
               icon="download"
